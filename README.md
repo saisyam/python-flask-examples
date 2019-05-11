@@ -6,3 +6,4 @@ I use [Python Flask](http://flask.pocoo.org/) in my day to day work. I build sma
     $ export FLASK_APP=helloworld.py
     $ flask run
     ```
+2. [templates](https://github.com/saisyam/python-flask-examples/tree/master/templates) - Rendering HTML pages using Flask templates.

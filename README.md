@@ -3,8 +3,7 @@ I use [Python Flask](http://flask.pocoo.org/) in my day to day work. I build sma
 
 1. [hello_word](https://github.com/saisyam/python-flask-examples/tree/master/hello_world) - Simple "Hello! World" example to get an idea on how Flask application is structured. To execute this app we have to:
     ```bash
-    $ export FLASK_APP=helloworld.py
-    $ flask run
+    $ python3 helloworld.py
     ```
 2. [templates](https://github.com/saisyam/python-flask-examples/tree/master/templates) - Rendering HTML pages using Flask templates.
 

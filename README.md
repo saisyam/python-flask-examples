@@ -8,3 +8,5 @@ I use [Python Flask](http://flask.pocoo.org/) in my day to day work. I build sma
 2. [templates](https://github.com/saisyam/python-flask-examples/tree/master/templates) - Rendering HTML pages using Flask templates.
 
 3. [react_hello_world](https://github.com/saisyam/python-flask-examples/tree/master/react_hello_world) - Adding React JS to Flask application.
+
+4. [templates_params](https://github.com/saisyam/python-flask-examples/tree/master/templates_params) - Flask templates with parameters
